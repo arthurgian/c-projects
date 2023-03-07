@@ -90,7 +90,7 @@ _No installation required, besides GCC Compiler_
 
 Arthur! - [@arthxr.rar](https://www.instagram.com/arthxr.rar/) - arthur.ogian.kontatk@gmail.com
 
-Project Link: [https://github.com/arthurgian/landing-page](https://github.com/arthurgian/html-css-js-projects/tree/main/landing-page)
+Repository Link: [https://github.com/arthurgian/c-projects/](https://github.com/arthurgian/html-css-js-projects/tree/main/landing-page)
 
 <p align="right">(<a href="#readme-top">^ To the top ^</a>)</p>
 
