@@ -6,7 +6,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/arthurgian/c-projects"><strong>Explore other C projects »</strong></a>
+    <a href="https://github.com/arthurgian/c-projects"><strong>Explore other repositories! »</strong></a>
     <br />
   </p>
 </div>
@@ -30,9 +30,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -49,7 +47,7 @@ Just some college exercises, nothing more.
 <!-- BUILT WITH -->
 ### Built With
 
-This section should list the technologies used in this project repository.
+This section should list the technologies used in this repository.
 
 * [![C][C.io]][C-url]
 
@@ -59,28 +57,14 @@ This section should list the technologies used in this project repository.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is the instructions on setting up your project locally.
-To get a local copy up and running this project follow these steps.
+This is the instructions to set up these project locally.
+To get a local copy up and running one of these projects, follow these steps.
 
 _Any of the following projects should be running equally, no need to extra dependencies installed._
 
 ### Prerequisites
 
 * GCC Compiler
-
-### Installation
-
-_No installation required, besides GCC Compiler_
-
-
-<p align="right">(<a href="#readme-top">^ To the top ^</a>)</p>
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Just for academic purposes
-
 
 <p align="right">(<a href="#readme-top">^ To the top ^</a>)</p>
 
