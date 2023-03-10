@@ -48,7 +48,7 @@ Implementation of the recursive or iterative Mergesort with optimizations:
 <!-- BUILT WITH -->
 ### Built With
 
-This section should list the technologies used in this repository.
+This section should list the technologies used in this project.
 
 * [![C][C.io]][C-url]
 
