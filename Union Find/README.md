@@ -44,7 +44,7 @@ The program will read the number of items, and then it will read a sequence of p
 <!-- BUILT WITH -->
 ### Built With
 
-This section should list the technologies used in this repository.
+This section should list the technologies used in this project.
 
 * [![C][C.io]][C-url]
 
