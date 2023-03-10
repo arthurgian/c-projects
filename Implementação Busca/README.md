@@ -68,7 +68,7 @@ The goal of this exercise is to implement two data structures:
 <!-- BUILT WITH -->
 ### Built With
 
-This section should list the technologies used in this repository.
+This section should list the technologies used in this project.
 
 * [![C][C.io]][C-url]
 
