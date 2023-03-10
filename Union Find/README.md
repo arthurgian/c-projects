@@ -27,7 +27,6 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
   </ol>
@@ -41,8 +40,6 @@
 Implementation for the union and find methods so that the problem of dynamic connectivity is solved by the program.
 The program will read the number of items, and then it will read a sequence of pairs of integers until at least one negative value is read.
 
-<p align="right">(<a href="#readme-top">^ To the top ^</a>)</p>
-
 
 <!-- BUILT WITH -->
 ### Built With
@@ -52,22 +49,15 @@ This section should list the technologies used in this repository.
 * [![C][C.io]][C-url]
 
 
-<p align="right">(<a href="#readme-top">^ To the top ^</a>)</p>
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is the instructions to set up these project locally.
-To get a local copy up and running one of these projects, follow these steps.
-
-_Any of the following projects should be running equally, no need to extra dependencies installed._
+This is the instructions to set up the project locally.
+To get a local copy up and running the project, follow these steps.
 
 ### Prerequisites
 
 * GCC Compiler
-
-<p align="right">(<a href="#readme-top">^ To the top ^</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
