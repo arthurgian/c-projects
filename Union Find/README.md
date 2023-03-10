@@ -2,11 +2,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">C College Projects</h3>
+  <h3 align="center">Union Find Implementation</h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/arthurgian/c-projects"><strong>Explore other repositories! »</strong></a>
+    <a href="https://github.com/arthurgian/c-projects"><strong>Explore other C projects! »</strong></a>
     <br />
   </p>
 </div>
