@@ -39,10 +39,10 @@
 
 Two functions have been implemented in mirror trees:
 
-    1. The "is_mirror" function that returns 1 if two trees are mirrors of each other and 0 otherwise.
+    1. The "eh_espelho" function that returns 1 if two trees are mirrors of each other and 0 otherwise.
     int is_mirror(Tree *tree_a, Tree *tree_b);
 
-    2. The "create_mirror" function that returns a new tree that is a mirror of the tree passed as a parameter.
+    2. The "cria_espelho" function that returns a new tree that is a mirror of the tree passed as a parameter.
     Tree *create_mirror(Tree *tree_a);
 
 
